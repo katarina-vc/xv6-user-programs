@@ -3,6 +3,7 @@
 ## Devs
 * John Maurer
 * Azim Ibragimov
+* Katarina Capalbo
 
 ## System Environments
 - Windows (WSL/Ubuntu)
