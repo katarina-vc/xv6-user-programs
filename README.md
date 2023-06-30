@@ -1,7 +1,6 @@
-# COP6611.001S23 OperatingSystems - Project 1
+# Adding more user programs to the xv6 operating system.
 
-## Group Members
-* Katarina Capalbo 
+## Devs
 * John Maurer
 * Azim Ibragimov
 
